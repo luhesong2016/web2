@@ -1,0 +1,65 @@
+.menu{
+
+	margin-left: 40px;
+
+	padding-top:5px;
+
+	background-position: -3em 90%;
+
+	background:url(../image/left_nav_txt.gif);
+
+	width: 180px;
+
+}
+
+#titlediv{
+
+	background:url(../image/left_nav_title.gif);
+
+	height: 35px;
+
+	width: 120px; 
+
+	padding-left: 60px;
+
+	padding-top: 10px;
+
+	color: white;
+
+}
+
+ul li{
+
+	list-style-image: url(../image/left_cur.gif);
+
+	
+
+	height: 35px;
+
+	width: 120px; 
+
+	margin-top: 0px;
+
+
+
+}
+
+#footerdiv{
+
+	background: url(../image/left_nav_bottom.gif);
+
+	
+
+	
+
+	width: 180px;
+
+	height: 35px;
+
+}
+
+a{
+
+	text-decoration: none;
+
+}
