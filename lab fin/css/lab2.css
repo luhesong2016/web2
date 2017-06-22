@@ -1,0 +1,137 @@
+#dingbu{
+	floT:left;
+	background:url(../images/bbb.jpg);
+	height:205px;
+	width:1000px;
+	background-position: center top;
+}
+.daohang{
+	width:1000px;
+	height:40px;
+	background:url(../images/nav.jpg);
+}
+.chaolianjie{
+	width:600px;
+	font-weight:bold;
+	color:#fff;
+	height:40px;
+	padding-top:12px;
+	margin-left:60px;
+	float:left;
+}
+.chaolianjie a{
+	color:#fff;
+}
+.chaolianjie a:hover{
+	color:#f9f603;
+	text-decoration:none;
+}
+#nba a:hover{
+    color:white;
+    background:black;
+
+}
+.baikuang{
+	margin:10px 0px 0px 100px;
+	width:120px;
+	height:18px;
+	padding:0;
+	border:0;
+	background-color:#f8f5ee;
+	float:left;
+}
+.sousuo{
+	margin:10px 0px 0px 10px;
+	padding:0;
+	width:40px;
+	height:18px;
+	background:#000;
+	color:#fff;
+	border:0;	
+	float:left;
+}
+.sosuokuang{
+	width:200px;
+	height:30px;
+	padding-top:12px;
+}
+.sousuo{
+	width:40px;
+	height:20px;
+	background-color:#000;
+	color:#fff;
+	border:1px solid #f8f5ee;
+	float:right;
+}
+#content{width:75%;margin:0px auto;}
+#left{
+	width:70%;
+	height:760px;
+	float:left;
+	}
+#blank{
+	width:75%;
+	height:30px;
+	margin:0px auto;
+	font-size:14px;
+	line-height:30px;
+	color:#8B2500;
+	float:left;
+}
+#blank a:link{color:#8B2500;}
+#blank a:visited{color:#8B2500;}
+#blank a:hover{color:green;}
+#blank a:active{color:red;}
+#content{width:75%;margin:0px auto;}
+#left{
+	width:70%;
+	height:760px;
+	float:left;
+}
+#left ul li{
+	display:inline;
+	padding:10px;
+	color:#8B2500;
+	font-size:14px;
+}
+#title{
+	line-height:50px;
+	color:#8B2500;
+}
+#ltitle{
+	font-size:14px;
+	color:grey;
+}
+#firstp,#secondp,#thirdp{
+	text-indent:2em;
+	font-size:14px;
+	color:#8B2500;
+	line-height:25px;
+}
+#right{
+	width:28%;
+	height:760px;
+	float:left;
+}
+#rtop{
+	width:280px;
+	height:190px;
+	border:1px grey solid;
+	background-color:#EEE9E9;
+	font-size:14px;
+}
+#rtopimg{
+	width:200;
+	height:30;
+	margin:0px auto;
+	margin-top:10px;
+}
+#footer{
+	padding-top:10px;
+	height:105px;
+	clear:both;
+}
+.youqinglianjie{
+	margin-left:60px;
+	padding-top:600px;
+}
